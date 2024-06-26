@@ -1,0 +1,222 @@
+{
+    "category" :[
+        {
+            "Id": "1",
+            "parentId": "0",
+            "Name": "Mobile",
+            "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mollis ultricies accumsan. Nam euismod maximus dui, non luctus neque. Suspendisse potenti. Vivamus bibendum sit amet purus id interdum. Sed eu nisl sit amet metus fermentum tempor. Nulla nunc nunc, fermentum eget dictum id, faucibus ac tortor. Mauris mattis lectus augue, sit amet convallis massa laoreet eget. Etiam faucibus dapibus fermentum. Vestibulum massa arcu, iaculis quis blandit eu, eleifend hendrerit mi. Praesent finibus tristique mauris.",
+            "Slug" : ""
+            
+        },
+        {
+            "Id": "2",
+            "parentId": "0",
+            "Name": "Tablet",
+            "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mollis ultricies accumsan. Nam euismod maximus dui, non luctus neque. Suspendisse potenti. Vivamus bibendum sit amet purus id interdum. Sed eu nisl sit amet metus fermentum tempor. Nulla nunc nunc, fermentum eget dictum id, faucibus ac tortor. Mauris mattis lectus augue, sit amet convallis massa laoreet eget. Etiam faucibus dapibus fermentum. Vestibulum massa arcu, iaculis quis blandit eu, eleifend hendrerit mi. Praesent finibus tristique mauris.",
+            "Slug" : ""
+            
+        },
+        {
+            "Id": "3",
+            "parentId": "0",
+            "Name": "Accessories",
+            "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mollis ultricies accumsan. Nam euismod maximus dui, non luctus neque. Suspendisse potenti. Vivamus bibendum sit amet purus id interdum. Sed eu nisl sit amet metus fermentum tempor. Nulla nunc nunc, fermentum eget dictum id, faucibus ac tortor. Mauris mattis lectus augue, sit amet convallis massa laoreet eget. Etiam faucibus dapibus fermentum. Vestibulum massa arcu, iaculis quis blandit eu, eleifend hendrerit mi. Praesent finibus tristique mauris.",
+            "Slug" : ""
+            
+        },
+        {
+            "Id": "4",
+            "parentId": "0",
+            "Name": "Clothing",
+            "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mollis ultricies accumsan. Nam euismod maximus dui, non luctus neque. Suspendisse potenti. Vivamus bibendum sit amet purus id interdum. Sed eu nisl sit amet metus fermentum tempor. Nulla nunc nunc, fermentum eget dictum id, faucibus ac tortor. Mauris mattis lectus augue, sit amet convallis massa laoreet eget. Etiam faucibus dapibus fermentum. Vestibulum massa arcu, iaculis quis blandit eu, eleifend hendrerit mi. Praesent finibus tristique mauris.",
+            "Slug" : ""
+            
+        },
+        {
+            "Id": "5",
+            "parentId": "0",
+            "Name": "Footwear",
+            "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mollis ultricies accumsan. Nam euismod maximus dui, non luctus neque. Suspendisse potenti. Vivamus bibendum sit amet purus id interdum. Sed eu nisl sit amet metus fermentum tempor. Nulla nunc nunc, fermentum eget dictum id, faucibus ac tortor. Mauris mattis lectus augue, sit amet convallis massa laoreet eget. Etiam faucibus dapibus fermentum. Vestibulum massa arcu, iaculis quis blandit eu, eleifend hendrerit mi. Praesent finibus tristique mauris.",
+            "Slug" : ""
+            
+        },
+        {
+            "Id": "6",
+            "parentId": "0",
+            "Name": "Bags And Accessories",
+            "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mollis ultricies accumsan. Nam euismod maximus dui, non luctus neque. Suspendisse potenti. Vivamus bibendum sit amet purus id interdum. Sed eu nisl sit amet metus fermentum tempor. Nulla nunc nunc, fermentum eget dictum id, faucibus ac tortor. Mauris mattis lectus augue, sit amet convallis massa laoreet eget. Etiam faucibus dapibus fermentum. Vestibulum massa arcu, iaculis quis blandit eu, eleifend hendrerit mi. Praesent finibus tristique mauris.",
+            "Slug" : ""
+            
+        },
+        {
+            "Id": "7",
+            "parentId": "0",
+            "Name": "Pizza",
+            "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mollis ultricies accumsan. Nam euismod maximus dui, non luctus neque. Suspendisse potenti. Vivamus bibendum sit amet purus id interdum. Sed eu nisl sit amet metus fermentum tempor. Nulla nunc nunc, fermentum eget dictum id, faucibus ac tortor. Mauris mattis lectus augue, sit amet convallis massa laoreet eget. Etiam faucibus dapibus fermentum. Vestibulum massa arcu, iaculis quis blandit eu, eleifend hendrerit mi. Praesent finibus tristique mauris.",
+            "Slug" : ""
+            
+        },
+        {
+            "Id": "8",
+            "parentId": "0",
+            "Name": "Food Delivery",
+            "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mollis ultricies accumsan. Nam euismod maximus dui, non luctus neque. Suspendisse potenti. Vivamus bibendum sit amet purus id interdum. Sed eu nisl sit amet metus fermentum tempor. Nulla nunc nunc, fermentum eget dictum id, faucibus ac tortor. Mauris mattis lectus augue, sit amet convallis massa laoreet eget. Etiam faucibus dapibus fermentum. Vestibulum massa arcu, iaculis quis blandit eu, eleifend hendrerit mi. Praesent finibus tristique mauris.",
+            "Slug" : ""
+            
+        },
+        {
+            "Id": "9",
+            "parentId": "0",
+            "Name": "Grocery",
+            "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mollis ultricies accumsan. Nam euismod maximus dui, non luctus neque. Suspendisse potenti. Vivamus bibendum sit amet purus id interdum. Sed eu nisl sit amet metus fermentum tempor. Nulla nunc nunc, fermentum eget dictum id, faucibus ac tortor. Mauris mattis lectus augue, sit amet convallis massa laoreet eget. Etiam faucibus dapibus fermentum. Vestibulum massa arcu, iaculis quis blandit eu, eleifend hendrerit mi. Praesent finibus tristique mauris.",
+            "Slug" : ""
+            
+        },
+        {
+            "Id": "10",
+            "parentId": "0",
+            "Name": "Bus",
+            "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mollis ultricies accumsan. Nam euismod maximus dui, non luctus neque. Suspendisse potenti. Vivamus bibendum sit amet purus id interdum. Sed eu nisl sit amet metus fermentum tempor. Nulla nunc nunc, fermentum eget dictum id, faucibus ac tortor. Mauris mattis lectus augue, sit amet convallis massa laoreet eget. Etiam faucibus dapibus fermentum. Vestibulum massa arcu, iaculis quis blandit eu, eleifend hendrerit mi. Praesent finibus tristique mauris.",
+            "Slug" : ""
+            
+        },
+        {
+            "Id": "11",
+            "parentId": "0",
+            "Name": "Flight",
+            "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mollis ultricies accumsan. Nam euismod maximus dui, non luctus neque. Suspendisse potenti. Vivamus bibendum sit amet purus id interdum. Sed eu nisl sit amet metus fermentum tempor. Nulla nunc nunc, fermentum eget dictum id, faucibus ac tortor. Mauris mattis lectus augue, sit amet convallis massa laoreet eget. Etiam faucibus dapibus fermentum. Vestibulum massa arcu, iaculis quis blandit eu, eleifend hendrerit mi. Praesent finibus tristique mauris.",
+            "Slug" : ""
+            
+        },
+        {
+            "Id": "12",
+            "parentId": "0",
+            "Name": "Train",
+            "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mollis ultricies accumsan. Nam euismod maximus dui, non luctus neque. Suspendisse potenti. Vivamus bibendum sit amet purus id interdum. Sed eu nisl sit amet metus fermentum tempor. Nulla nunc nunc, fermentum eget dictum id, faucibus ac tortor. Mauris mattis lectus augue, sit amet convallis massa laoreet eget. Etiam faucibus dapibus fermentum. Vestibulum massa arcu, iaculis quis blandit eu, eleifend hendrerit mi. Praesent finibus tristique mauris.",
+            "Slug" : ""
+            
+        },
+        {
+            "Id": "13",
+            "parentId": "0",
+            "Name": "Grocery",
+            "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mollis ultricies accumsan. Nam euismod maximus dui, non luctus neque. Suspendisse potenti. Vivamus bibendum sit amet purus id interdum. Sed eu nisl sit amet metus fermentum tempor. Nulla nunc nunc, fermentum eget dictum id, faucibus ac tortor. Mauris mattis lectus augue, sit amet convallis massa laoreet eget. Etiam faucibus dapibus fermentum. Vestibulum massa arcu, iaculis quis blandit eu, eleifend hendrerit mi. Praesent finibus tristique mauris.",
+            "Slug" : ""
+            
+        },
+        {
+            "Id": "14",
+            "parentId": "0",
+            "Name": "Mobile Recharge",
+            "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mollis ultricies accumsan. Nam euismod maximus dui, non luctus neque. Suspendisse potenti. Vivamus bibendum sit amet purus id interdum. Sed eu nisl sit amet metus fermentum tempor. Nulla nunc nunc, fermentum eget dictum id, faucibus ac tortor. Mauris mattis lectus augue, sit amet convallis massa laoreet eget. Etiam faucibus dapibus fermentum. Vestibulum massa arcu, iaculis quis blandit eu, eleifend hendrerit mi. Praesent finibus tristique mauris.",
+            "Slug" : ""
+            
+        },
+        {
+            "Id": "15",
+            "parentId": "0",
+            "Name": "Movie Ticket",
+            "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mollis ultricies accumsan. Nam euismod maximus dui, non luctus neque. Suspendisse potenti. Vivamus bibendum sit amet purus id interdum. Sed eu nisl sit amet metus fermentum tempor. Nulla nunc nunc, fermentum eget dictum id, faucibus ac tortor. Mauris mattis lectus augue, sit amet convallis massa laoreet eget. Etiam faucibus dapibus fermentum. Vestibulum massa arcu, iaculis quis blandit eu, eleifend hendrerit mi. Praesent finibus tristique mauris.",
+            "Slug" : ""
+            
+        },
+        {
+            "Id": "16",
+            "parentId": "0",
+            "Name": "Nutrition",
+            "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mollis ultricies accumsan. Nam euismod maximus dui, non luctus neque. Suspendisse potenti. Vivamus bibendum sit amet purus id interdum. Sed eu nisl sit amet metus fermentum tempor. Nulla nunc nunc, fermentum eget dictum id, faucibus ac tortor. Mauris mattis lectus augue, sit amet convallis massa laoreet eget. Etiam faucibus dapibus fermentum. Vestibulum massa arcu, iaculis quis blandit eu, eleifend hendrerit mi. Praesent finibus tristique mauris.",
+            "Slug" : ""
+            
+        },
+        {
+            "Id": "17",
+            "parentId": "0",
+            "Name": "TV,Audio/Videos & Movies",
+            "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mollis ultricies accumsan. Nam euismod maximus dui, non luctus neque. Suspendisse potenti. Vivamus bibendum sit amet purus id interdum. Sed eu nisl sit amet metus fermentum tempor. Nulla nunc nunc, fermentum eget dictum id, faucibus ac tortor. Mauris mattis lectus augue, sit amet convallis massa laoreet eget. Etiam faucibus dapibus fermentum. Vestibulum massa arcu, iaculis quis blandit eu, eleifend hendrerit mi. Praesent finibus tristique mauris.",
+            "Slug" : ""
+            
+        },
+        {
+            "Id": "18",
+            "parentId": "0",
+            "Name": "Beauty & Health",
+            "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mollis ultricies accumsan. Nam euismod maximus dui, non luctus neque. Suspendisse potenti. Vivamus bibendum sit amet purus id interdum. Sed eu nisl sit amet metus fermentum tempor. Nulla nunc nunc, fermentum eget dictum id, faucibus ac tortor. Mauris mattis lectus augue, sit amet convallis massa laoreet eget. Etiam faucibus dapibus fermentum. Vestibulum massa arcu, iaculis quis blandit eu, eleifend hendrerit mi. Praesent finibus tristique mauris.",
+            "Slug" : ""
+            
+        },
+        {
+            "Id": "19",
+            "parentId": "0",
+            "Name": "Misceallaneous",
+            "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mollis ultricies accumsan. Nam euismod maximus dui, non luctus neque. Suspendisse potenti. Vivamus bibendum sit amet purus id interdum. Sed eu nisl sit amet metus fermentum tempor. Nulla nunc nunc, fermentum eget dictum id, faucibus ac tortor. Mauris mattis lectus augue, sit amet convallis massa laoreet eget. Etiam faucibus dapibus fermentum. Vestibulum massa arcu, iaculis quis blandit eu, eleifend hendrerit mi. Praesent finibus tristique mauris.",
+            "Slug" : ""
+            
+        },
+        {
+            "Id": "20",
+            "parentId": "0",
+            "Name": "Computer , Laptop & Gaming",
+            "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mollis ultricies accumsan. Nam euismod maximus dui, non luctus neque. Suspendisse potenti. Vivamus bibendum sit amet purus id interdum. Sed eu nisl sit amet metus fermentum tempor. Nulla nunc nunc, fermentum eget dictum id, faucibus ac tortor. Mauris mattis lectus augue, sit amet convallis massa laoreet eget. Etiam faucibus dapibus fermentum. Vestibulum massa arcu, iaculis quis blandit eu, eleifend hendrerit mi. Praesent finibus tristique mauris.",
+            "Slug" : ""
+            
+        },
+        {
+            "Id": "21",
+            "parentId": "0",
+            "Name": "Appliances",
+            "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mollis ultricies accumsan. Nam euismod maximus dui, non luctus neque. Suspendisse potenti. Vivamus bibendum sit amet purus id interdum. Sed eu nisl sit amet metus fermentum tempor. Nulla nunc nunc, fermentum eget dictum id, faucibus ac tortor. Mauris mattis lectus augue, sit amet convallis massa laoreet eget. Etiam faucibus dapibus fermentum. Vestibulum massa arcu, iaculis quis blandit eu, eleifend hendrerit mi. Praesent finibus tristique mauris.",
+            "Slug" : ""
+            
+        },
+        {
+            "Id": "22",
+            "parentId": "0",
+            "Name": "Home Furnishing & Decor",
+            "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mollis ultricies accumsan. Nam euismod maximus dui, non luctus neque. Suspendisse potenti. Vivamus bibendum sit amet purus id interdum. Sed eu nisl sit amet metus fermentum tempor. Nulla nunc nunc, fermentum eget dictum id, faucibus ac tortor. Mauris mattis lectus augue, sit amet convallis massa laoreet eget. Etiam faucibus dapibus fermentum. Vestibulum massa arcu, iaculis quis blandit eu, eleifend hendrerit mi. Praesent finibus tristique mauris.",
+            "Slug" : ""
+            
+        },
+        {
+            "Id": "23",
+            "parentId": "0",
+            "Name": "Flowers , Gifts & Jewellery",
+            "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mollis ultricies accumsan. Nam euismod maximus dui, non luctus neque. Suspendisse potenti. Vivamus bibendum sit amet purus id interdum. Sed eu nisl sit amet metus fermentum tempor. Nulla nunc nunc, fermentum eget dictum id, faucibus ac tortor. Mauris mattis lectus augue, sit amet convallis massa laoreet eget. Etiam faucibus dapibus fermentum. Vestibulum massa arcu, iaculis quis blandit eu, eleifend hendrerit mi. Praesent finibus tristique mauris.",
+            "Slug" : ""
+            
+        },
+        {
+            "Id": "24",
+            "parentId": "0",
+            "Name": "Books & Stationary",
+            "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mollis ultricies accumsan. Nam euismod maximus dui, non luctus neque. Suspendisse potenti. Vivamus bibendum sit amet purus id interdum. Sed eu nisl sit amet metus fermentum tempor. Nulla nunc nunc, fermentum eget dictum id, faucibus ac tortor. Mauris mattis lectus augue, sit amet convallis massa laoreet eget. Etiam faucibus dapibus fermentum. Vestibulum massa arcu, iaculis quis blandit eu, eleifend hendrerit mi. Praesent finibus tristique mauris.",
+            "Slug" : ""
+            
+        },
+        {
+            "Id": "25",
+            "parentId": "0",
+            "Name": "Kids , Babies & Toys",
+            "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mollis ultricies accumsan. Nam euismod maximus dui, non luctus neque. Suspendisse potenti. Vivamus bibendum sit amet purus id interdum. Sed eu nisl sit amet metus fermentum tempor. Nulla nunc nunc, fermentum eget dictum id, faucibus ac tortor. Mauris mattis lectus augue, sit amet convallis massa laoreet eget. Etiam faucibus dapibus fermentum. Vestibulum massa arcu, iaculis quis blandit eu, eleifend hendrerit mi. Praesent finibus tristique mauris.",
+            "Slug" : ""
+            
+        },
+        {
+            "Id": "26",
+            "parentId": "0",
+            "Name": "Cameras & Accessories",
+            "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mollis ultricies accumsan. Nam euismod maximus dui, non luctus neque. Suspendisse potenti. Vivamus bibendum sit amet purus id interdum. Sed eu nisl sit amet metus fermentum tempor. Nulla nunc nunc, fermentum eget dictum id, faucibus ac tortor. Mauris mattis lectus augue, sit amet convallis massa laoreet eget. Etiam faucibus dapibus fermentum. Vestibulum massa arcu, iaculis quis blandit eu, eleifend hendrerit mi. Praesent finibus tristique mauris.",
+            "Slug" : ""
+            
+        },
+        {
+            "Id": "27",
+            "parentId": "0",
+            "Name": "Sports & Fitness",
+            "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mollis ultricies accumsan. Nam euismod maximus dui, non luctus neque. Suspendisse potenti. Vivamus bibendum sit amet purus id interdum. Sed eu nisl sit amet metus fermentum tempor. Nulla nunc nunc, fermentum eget dictum id, faucibus ac tortor. Mauris mattis lectus augue, sit amet convallis massa laoreet eget. Etiam faucibus dapibus fermentum. Vestibulum massa arcu, iaculis quis blandit eu, eleifend hendrerit mi. Praesent finibus tristique mauris.",
+            "Slug" : ""
+            
+        }
+    ]
+    
+
+}
